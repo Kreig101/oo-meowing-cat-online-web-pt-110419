@@ -1,4 +1,5 @@
 class Cat 
    attr_accessor :Cat 
    
-   puts 
+   puts "meow!"
+ end
